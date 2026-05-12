@@ -229,7 +229,7 @@ is a design deliverable.
 
 ## Figma source file
 
-→ [Open in Figma](#https://www.figma.com/design/5TsYjxtEwc8BKGf34lGxGa/VD-Haier-Mall?node-id=1309-19635&t=JcC70YaOOM1CpQX1-1) 
+→ [Open in Figma](https://www.figma.com/design/5TsYjxtEwc8BKGf34lGxGa/VD-Haier-Mall?node-id=1309-19635&t=JcC70YaOOM1CpQX1-1) 
 
 ---
 
