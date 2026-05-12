@@ -190,7 +190,7 @@ below-fold placement variations. First test I would run in Phase 2.
 |---|---|
 | Online sales | **+25%** |
 | Product discovery speed | **+40% faster** (usability testing) |
-| Bounce rate | **−20%** |
+| Bounce rate | **−32%** |
 | Average session duration | **+15% longer** |
 
 Every result was achieved under Phase 1 constraints — no new features, 
