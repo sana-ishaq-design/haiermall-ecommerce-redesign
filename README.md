@@ -1,6 +1,6 @@
 # HaierMall — E-Commerce Redesign
 
-https://github.com/sana-ishaq-design/haiermall-ecommerce-redesign/blob/3170e0ac62baec2c33999946db06e053787dc9eb/Images/haier.png
+![Cover](Images/haier.png)
 
 **A full UI/UX redesign of HaierMall.com — Pakistan's official Haier 
 appliance e-commerce platform — resulting in a 25% increase in online 
